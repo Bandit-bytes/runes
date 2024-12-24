@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " N ",
+    "BPB",
+    " S "
+  ],
+  "key": {
+    "N": {
+      "item": "minecraft:nether_wart"
+    },
+    "B": {
+      "item": "minecraft:blaze_powder"
+    },
+    "P": {
+      "item": "runes:empty_rune"
+    },
+    "S": {
+      "item": "minecraft:spider_eye"
+    }
+  },
+  "result": {
+    "item": "runes:black_out_rune",
+    "count": 1
+  }
+}

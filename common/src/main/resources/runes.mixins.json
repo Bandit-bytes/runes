@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "package": "net.bandit.runes.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "minVersion": "0.8",
+  "client": [
+  ],
+  "mixins": [
+    "LavaFogMixin",
+    "StealthMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

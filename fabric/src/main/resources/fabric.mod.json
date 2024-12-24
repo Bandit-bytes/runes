@@ -15,14 +15,14 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.bandit.useful_pills.fabric.UsefulPillModFabric"
+      "net.bandit.runes.fabric.RunesModFabric"
     ],
     "client": [
-      "net.bandit.useful_pills.fabric.client.UsefulPillModFabricClient"
+      "net.bandit.runes.fabric.client.RunesModFabricClient"
     ]
   },
   "mixins": [
-    "useful_pills.mixins.json"
+    "runes.mixins.json"
   ],
   "depends": {
     "fabricloader": ">=0.16.3",
