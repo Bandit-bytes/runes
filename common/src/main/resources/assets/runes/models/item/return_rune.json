@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "runes:item/black_out_rune"
+    "layer0": "runes:item/return_rune"
   }
 }

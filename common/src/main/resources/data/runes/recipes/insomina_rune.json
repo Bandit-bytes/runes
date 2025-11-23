@@ -1,26 +1,26 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    " N ",
+    " E ",
     "BPB",
     " S "
   ],
   "key": {
-    "N": {
-      "item": "minecraft:nether_wart"
+    "S": {
+      "item": "minecraft:sugar"
+    },
+    "E": {
+      "item": "runes:empty_rune"
     },
     "B": {
       "item": "minecraft:blaze_powder"
     },
     "P": {
-      "item": "runes:empty_rune"
-    },
-    "S": {
-      "item": "minecraft:spider_eye"
+      "item": "minecraft:phantom_membrane"
     }
   },
   "result": {
-    "item": "runes:black_out_rune",
+    "item": "runes:cure_rune",
     "count": 1
   }
 }

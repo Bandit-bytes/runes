@@ -12,6 +12,7 @@ public class SoundsRegistry {
     public static final DeferredRegister<SoundEvent> SOUNDS = DeferredRegister.create(RunesMod.MOD_ID, Registries.SOUND_EVENT);
 
     public static final RegistrySupplier<SoundEvent> BLACK_OUT_RUNE_USE = register("black_out_rune_use");
+    public static final RegistrySupplier<SoundEvent> BURROW_RUNE_USE = register("burrow_rune_use");
     public static final RegistrySupplier<SoundEvent> FIRE_RESISTANCE_RUNE_USE = register("fire_resistance_rune_use");
     public static final RegistrySupplier<SoundEvent> CREATIVE_FLIGHT_RUNE_USE = register("creative_flight_rune_use");
     public static final RegistrySupplier<SoundEvent> TELEPORT_RUNE_USE = register("teleport_rune_use");

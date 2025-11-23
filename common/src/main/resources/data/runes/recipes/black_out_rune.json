@@ -1,26 +1,26 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    " E ",
+    " N ",
     "BPB",
     " S "
   ],
   "key": {
-    "S": {
-      "item": "minecraft:sugar"
-    },
-    "E": {
-      "item": "runes:empty_rune"
+    "N": {
+      "item": "minecraft:nether_wart"
     },
     "B": {
       "item": "minecraft:blaze_powder"
     },
     "P": {
-      "item": "minecraft:phantom_membrane"
+      "item": "runes:empty_rune"
+    },
+    "S": {
+      "item": "minecraft:spider_eye"
     }
   },
   "result": {
-    "item": "runes:cure_insomnia_rune",
+    "item": "runes:return_rune",
     "count": 1
   }
 }

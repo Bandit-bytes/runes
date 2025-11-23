@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "id": "useful_pills",
+  "id": "runes",
   "version": "${version}",
-  "name": "Useful Pills",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "Runes",
+  "description": "Nine exciting runes to enhance your medieval or fantasy realm.",
   "authors": [
     "Bandit-bytes"
   ],

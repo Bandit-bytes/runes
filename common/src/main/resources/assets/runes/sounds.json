@@ -29,7 +29,7 @@
   "teleport_rune_use": {
     "sounds": [
       {
-        "name": "runes:teleport_rune_use",
+        "name": "runes:rune_use_sound",
         "volume": 1.0,
         "pitch": 1.0
       }
@@ -48,6 +48,15 @@
     "sounds": [
       {
         "name": "runes:stealth_rune_use",
+        "volume": 1.0,
+        "pitch": 1.0
+      }
+    ]
+  },
+  "burrow_rune_use": {
+    "sounds": [
+      {
+        "name": "runes:rune_use_sound",
         "volume": 1.0,
         "pitch": 1.0
       }

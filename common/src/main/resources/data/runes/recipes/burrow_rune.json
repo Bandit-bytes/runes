@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "SIS",
+    "IRE",
+    "SIS"
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:stone"
+    },
+    "I": {
+      "item": "minecraft:iron_pickaxe"
+    },
+    "R": {
+      "item": "minecraft:iron_shovel"
+    },
+    "E": {
+      "item": "runes:empty_rune"
+    }
+  },
+  "result": {
+    "item": "runes:burrow_rune",
+    "count": 1
+  }
+}

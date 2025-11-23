@@ -15,19 +15,21 @@ public class ItemRegistry {
     public static final RegistrySupplier<Item> EMPTY_RUNE = ITEMS.register("empty_rune",
             () -> new Item(new Properties().stacksTo(2).arch$tab(TabRegistry.RUNES_TAB)));
     public static final RegistrySupplier<Item> WATER_RUNE = ITEMS.register("water_rune",
-            () -> new WaterPillItem(new Properties().stacksTo(2).arch$tab(TabRegistry.RUNES_TAB).rarity(Rarity.RARE)));
-    public static final RegistrySupplier<Item> CURE_INSOMNIA_RUNE = ITEMS.register("cure_insomnia_rune",
-            () -> new CureInsomniaPillItem(new Item.Properties().stacksTo(2).arch$tab(TabRegistry.RUNES_TAB).rarity(Rarity.EPIC)));
+            () -> new BreathRune(new Properties().stacksTo(2).arch$tab(TabRegistry.RUNES_TAB).rarity(Rarity.RARE)));
+    public static final RegistrySupplier<Item> CURE_INSOMNIA_RUNE = ITEMS.register("cure_rune",
+            () -> new CureRune(new Item.Properties().stacksTo(2).arch$tab(TabRegistry.RUNES_TAB).rarity(Rarity.EPIC)));
     public static final RegistrySupplier<Item> STEALTH_RUNE = ITEMS.register("stealth_rune",
-            () -> new StealthPillItem(new Item.Properties().stacksTo(2).arch$tab(TabRegistry.RUNES_TAB).rarity(Rarity.EPIC)));
-    public static final RegistrySupplier<Item> CREATIVE_FLIGHT_RUNE = ITEMS.register("creative_flight_rune",
-            () -> new CreativeFlightPillItem(new Item.Properties().stacksTo(2).arch$tab(TabRegistry.RUNES_TAB).rarity(Rarity.EPIC)));
+            () -> new StealthRune(new Item.Properties().stacksTo(2).arch$tab(TabRegistry.RUNES_TAB).rarity(Rarity.EPIC)));
+    public static final RegistrySupplier<Item> BURROW_RUNE = ITEMS.register("burrow_rune",
+            () -> new BurrowingRune(new Item.Properties().stacksTo(2).arch$tab(TabRegistry.RUNES_TAB).rarity(Rarity.EPIC)));
+    public static final RegistrySupplier<Item> CREATIVE_FLIGHT_RUNE = ITEMS.register("flight_rune",
+            () -> new FlightRune(new Item.Properties().stacksTo(2).arch$tab(TabRegistry.RUNES_TAB).rarity(Rarity.EPIC)));
     public static final RegistrySupplier<Item> FIRE_RESISTANCE_RUNE = ITEMS.register("fire_resistance_rune",
-            () -> new FireResistancePillItem(new Item.Properties().stacksTo(2).arch$tab(TabRegistry.RUNES_TAB).rarity(Rarity.UNCOMMON)));
-    public static final RegistrySupplier<Item> BLACK_OUT_RUNE = ITEMS.register("black_out_rune",
-            () -> new BlackOutPillItem(new Item.Properties().stacksTo(1).arch$tab(TabRegistry.RUNES_TAB).rarity(Rarity.UNCOMMON)));
+            () -> new ResisRune(new Item.Properties().stacksTo(2).arch$tab(TabRegistry.RUNES_TAB).rarity(Rarity.UNCOMMON)));
+    public static final RegistrySupplier<Item> BLACK_OUT_RUNE = ITEMS.register("return_rune",
+            () -> new BlackOutRune(new Item.Properties().stacksTo(1).arch$tab(TabRegistry.RUNES_TAB).rarity(Rarity.UNCOMMON)));
     public static final RegistrySupplier<Item> TELEPORT_RUNE = ITEMS.register("teleport_rune",
-            () -> new TeleportPillItem(new Item.Properties().stacksTo(2).arch$tab(TabRegistry.RUNES_TAB).rarity(Rarity.EPIC)));
+            () -> new TeleportRune(new Item.Properties().stacksTo(2).arch$tab(TabRegistry.RUNES_TAB).rarity(Rarity.EPIC)));
 
 
     public static void register() {
