@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " B ",
+    "FPF",
+    " N "
+  ],
+  "key": {
+    "N": {
+      "item": "minecraft:nether_wart"
+    },
+    "B": {
+      "item": "runes_of_power:empty_rune"
+    },
+    "F": {
+      "item": "minecraft:fire_charge"
+    },
+    "P": {
+      "item": "minecraft:phantom_membrane"
+    }
+  },
+  "result": {
+    "item": "runes_of_power:fire_resistance_rune",
+    "count": 1
+  }
+}

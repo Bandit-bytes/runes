@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "teleport_runes_of_power",
+  "ingredients": [
+    {
+      "item": "runes_of_power:empty_rune"
+    },
+    {
+      "item": "minecraft:nether_star"
+    }
+  ],
+  "result": {
+    "item": "runes_of_power:teleport_rune",
+    "count": 1
+  }
+}

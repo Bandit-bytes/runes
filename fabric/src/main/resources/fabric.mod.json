@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "id": "runes",
+  "id": "runes_of_power",
   "version": "${version}",
-  "name": "Runes",
+  "name": "Runes of Power",
   "description": "Nine exciting runes to enhance your medieval or fantasy realm.",
   "authors": [
     "Bandit-bytes"
@@ -15,14 +15,14 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.bandit.runes.fabric.RunesModFabric"
+      "net.bandit.runes_of_power.fabric.RunesModFabric"
     ],
     "client": [
-      "net.bandit.runes.fabric.client.RunesModFabricClient"
+      "net.bandit.runes_of_power.fabric.client.RunesModFabricClient"
     ]
   },
   "mixins": [
-    "runes.mixins.json"
+    "runes_of_power.mixins.json"
   ],
   "depends": {
     "fabricloader": ">=0.16.3",

@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "runes_of_power:item/empty_rune"
+  }
+}

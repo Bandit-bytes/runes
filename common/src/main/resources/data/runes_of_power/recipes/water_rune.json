@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "KSK",
+    "BPB",
+    "KSK"
+  ],
+  "key": {
+    "K": {
+      "item": "minecraft:kelp"
+    },
+    "S": {
+      "item": "minecraft:sugar"
+    },
+    "P": {
+      "item": "runes_of_power:empty_rune"
+    },
+    "B": {
+      "item": "minecraft:potato"
+    }
+  },
+  "result": {
+    "item": "runes_of_power:water_rune",
+    "count": 1
+  }
+}

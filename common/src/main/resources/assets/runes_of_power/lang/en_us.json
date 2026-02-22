@@ -1,0 +1,56 @@
+{
+  "item.runes_of_power.water_rune": "Rune of Tides",
+  "item.runes_of_power.empty_rune": "Void Rune",
+  "item.runes_of_power.teleport_rune": "Rune of Passage",
+  "item.runes_of_power.fire_resistance_rune": "Inferno Rune",
+  "item.runes_of_power.cure_rune": "Dreamweaver Rune",
+  "item.runes_of_power.return_rune": "Shadow Rune",
+  "item.runes_of_power.stealth_rune": "Veil Rune",
+  "item.runes_of_power.flight_rune": "Rune of Ascension",
+  "item.runes_of_power.burrow_rune": "Rune of Burrowing",
+
+
+  "effect.runes_of_power.lava_vision": "Lava Vision",
+  "effect.runes_of_power.stealth_effect": "Stealth",
+  "effect.runes_of_power.creative_flight": "Flight",
+  "category.runes_of_power": "Runes Of Power",
+
+  "item.runes_of_power.cure_insomnia_rune.tooltip": "Cures insomnia and prevents phantoms from spawning",
+  "item.runes_of_power.cure_insomnia_rune.lore": "A remedy passed down through generations.",
+
+
+  "item.runes_of_power.stealth_rune.tooltip": "Rune of Veils",
+  "item.runes_of_power.stealth_rune.lore": "A rune that grants silent passage through shadows of the Ancient Cities.",
+
+  "item.runes_of_power.teleport_rune.tooltip": "Rune of Passage",
+  "item.runes_of_power.teleport_rune.lore": "Binds the user to dimensions unseen, ready for teleportation.",
+
+  "item.runes_of_power.black_out_rune.tooltip": "Rune of Shadows",
+  "item.runes_of_power.black_out_rune.lore": "A mysterious rune that shrouds the user in darkness and confusion, rendering you back home.",
+
+
+  "item.runes_of_power.water_rune.tooltip": "Rune of Tides",
+  "item.runes_of_power.water_rune.lore": "Harnesses the power of flowing water, carrying its strength within granting water breathing.",
+  "item.runes_of_power.creative_flight_rune.tooltip": "Rune of Ascension",
+  "item.runes_of_power.creative_flight_rune.lore_1": "Soar high above the world...",
+  "item.runes_of_power.creative_flight_rune.lore_2": "...but remember, all flights must land.",
+  "item.runes_of_power.fire_resistance_rune.tooltip": "Rune of Infernos",
+  "item.runes_of_power.fire_resistance_rune.lore_1": "An ancient rune forged in the flames of the Nether.",
+  "item.runes_of_power.fire_resistance_rune.lore_2": "Its power shields even the bravest adventurers from fire and grants vision within.",
+
+  "item.runes_of_power.burrowing_rune.tooltip": "Rune of Earth",
+  "item.runes_of_power.burrowing_rune.lore": "Stone yields, soil parts, and the earth opens before you.",
+  "item.runes_of_power.burrowing_rune.upgrade_hint": "Sneak + Right Click with another Burrow Rune to empower.",
+  "item.runes_of_power.burrowing_rune.tier": "Tier: %s",
+  "item.runes_of_power.burrowing_rune.stats": "Radius: %s   Cooldown: %ss",
+  "item.runes_of_power.black_out_rune.upgrade_hint": "Sneak + Right click with another Shadow Rune to deepen its power.",
+  "item.runes_of_power.water_rune.upgrade_hint": "Sneak + Right click with another Rune of Tides to deepen its blessing.",
+  "item.runes_of_power.cure_insomnia_rune.upgrade_hint": "Sneak + Right click with another Dreamweaver Rune to deepen its rest.",
+  "item.runes_of_power.creative_flight_rune.upgrade_hint": "Sneak + Right click with another Rune of Ascension to heighten your flight.",
+  "item.runes_of_power.fire_resistance_rune.upgrade_hint": "Sneak + Right click with another Inferno Rune to stoke its power.",
+  "item.runes_of_power.stealth_rune.upgrade_hint": "Sneak + Right click with another Veil Rune to deepen your concealment.",
+  "item.runes_of_power.teleport_rune.upgrade_hint": "Sneak + Right click with another Rune of Passage to strengthen its connection.",
+  "item.runes_of_power.teleport_rune.invalid_dimension": "Invalid Dimension has been set in config."
+
+
+}

@@ -1,0 +1,65 @@
+{
+  "black_out_rune_use": {
+    "sounds": [
+      {
+        "name": "runes_of_power:rune_use_sound",
+        "volume": 1.0,
+        "pitch": 1.0
+      }
+    ]
+  },
+  "fire_resistance_rune_use": {
+    "sounds": [
+      {
+        "name": "runes_of_power:fire_resistance_rune_use",
+        "volume": 1.0,
+        "pitch": 1.0
+      }
+    ]
+  },
+  "creative_flight_rune_use": {
+    "sounds": [
+      {
+        "name": "runes_of_power:creative_flight_rune_use",
+        "volume": 1.0,
+        "pitch": 1.0
+      }
+    ]
+  },
+  "teleport_rune_use": {
+    "sounds": [
+      {
+        "name": "runes_of_power:rune_use_sound",
+        "volume": 1.0,
+        "pitch": 1.0
+      }
+    ]
+  },
+  "water_rune_use": {
+    "sounds": [
+      {
+        "name": "runes_of_power:water_rune_use",
+        "volume": 1.0,
+        "pitch": 1.0
+      }
+    ]
+  },
+  "stealth_rune_use": {
+    "sounds": [
+      {
+        "name": "runes_of_power:stealth_rune_use",
+        "volume": 1.0,
+        "pitch": 1.0
+      }
+    ]
+  },
+  "burrow_rune_use": {
+    "sounds": [
+      {
+        "name": "runes_of_power:rune_use_sound",
+        "volume": 1.0,
+        "pitch": 1.0
+      }
+    ]
+  }
+}
